@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Attendance_Management/static/css/main.14a31a6f.css",
-    "main.js": "/Attendance_Management/static/js/main.75c28ad9.js",
+    "main.js": "/Attendance_Management/static/js/main.a1c7ef13.js",
     "static/js/787.70c7812c.chunk.js": "/Attendance_Management/static/js/787.70c7812c.chunk.js",
     "static/media/icon.ico": "/Attendance_Management/static/media/icon.71b21050fdc9060ace71.ico",
     "static/media/student_att.png": "/Attendance_Management/static/media/student_att.1910eaa5c7185723aec4.png",
     "static/media/student.png": "/Attendance_Management/static/media/student.148d7d62d29c60d7d8e1.png",
     "index.html": "/Attendance_Management/index.html",
     "main.14a31a6f.css.map": "/Attendance_Management/static/css/main.14a31a6f.css.map",
-    "main.75c28ad9.js.map": "/Attendance_Management/static/js/main.75c28ad9.js.map",
+    "main.a1c7ef13.js.map": "/Attendance_Management/static/js/main.a1c7ef13.js.map",
     "787.70c7812c.chunk.js.map": "/Attendance_Management/static/js/787.70c7812c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14a31a6f.css",
-    "static/js/main.75c28ad9.js"
+    "static/js/main.a1c7ef13.js"
   ]
 }
