@@ -19,8 +19,11 @@ const Login = () => {
         if (username === "" || password === "") {
             setMessage({ text: "Fill all the fields!", color: "red" });
         } else {
-            history("/mark", { state: { username: username } });
+            history("/mark/", { state: { username: username } });
         }
+        setTimeout(() => {
+            setMessage({ text: "", color: "" });
+        }, 7000);
     }
 
     return (
@@ -47,7 +50,7 @@ const Login = () => {
                             }} />
                         </div>
                         <div className="press" onClick={check}>
-                            <Link to="/" className="itsLink"> &rarr; Login</Link>
+                            <Link to="/Attendance_Management/" className="itsLink"> &rarr; Login</Link>
                         </div>
                         {message.text && (
                             <div className="message" style={{

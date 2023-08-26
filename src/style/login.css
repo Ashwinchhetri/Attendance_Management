@@ -5,18 +5,22 @@
 }
 
 .login_page {
+    background-image: url("../assets/stud.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    background-color: #f5f5f5;
 }
 
 .login_disp {
     display: flex;
     align-items: center;
-    background-color: white;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: transparent;
+    box-shadow: 0px 4px 8px black;
     border-radius: 10px;
     overflow: hidden;
 }
@@ -69,12 +73,12 @@
 
 .itsLink {
     text-decoration: none;
-    color: #29b6f6;
+    color: black;
     transition: color 0.3s;
 }
 
 .itsLink:hover {
-    color: #047edf;
+    color: black;
 }
 
 .message {
