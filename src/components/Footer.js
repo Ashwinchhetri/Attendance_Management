@@ -6,17 +6,17 @@ const Footer = () => {
     return (
         <footer className="footer">
             <div className="footer-links">
-                <a href="#">Home</a>
-                <a href="#">About Us</a>
-                <a href="#">Services</a>
-                <a href="#">Portfolio</a>
-                <a href="#">Contact</a>
+                <a>Home</a>
+                <a>About Us</a>
+                <a>Services</a>
+                <a>Portfolio</a>
+                <a>Contact</a>
             </div>
             <div className="footer-social">
-                <a href="#" className="social-icon"><FaFacebook /></a>
-                <a href="#" className="social-icon"><FaTwitter /></a>
-                <a href="#" className="social-icon"><FaLinkedin /></a>
-                <a href="#" className="social-icon"><FaInstagram /></a>
+                <a className="social-icon"><FaFacebook /></a>
+                <a className="social-icon"><FaTwitter /></a>
+                <a className="social-icon"><FaLinkedin /></a>
+                <a className="social-icon"><FaInstagram /></a>
             </div>
             <p className="footer-text">
                 &copy; 2023 Ashwin Chhetri. All Rights Reserved.
