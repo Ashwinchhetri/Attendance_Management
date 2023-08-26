@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/Attendance_Management/static/css/main.14a31a6f.css",
-    "main.js": "/Attendance_Management/static/js/main.514d2bfe.js",
+    "main.css": "/Attendance_Management/static/css/main.ea3ff125.css",
+    "main.js": "/Attendance_Management/static/js/main.646d4953.js",
     "static/js/787.70c7812c.chunk.js": "/Attendance_Management/static/js/787.70c7812c.chunk.js",
+    "static/media/stud.jpg": "/Attendance_Management/static/media/stud.172dcfa6747eebaf4ae4.jpg",
     "static/media/icon.ico": "/Attendance_Management/static/media/icon.71b21050fdc9060ace71.ico",
     "static/media/student_att.png": "/Attendance_Management/static/media/student_att.1910eaa5c7185723aec4.png",
     "static/media/student.png": "/Attendance_Management/static/media/student.148d7d62d29c60d7d8e1.png",
     "index.html": "/Attendance_Management/index.html",
-    "main.14a31a6f.css.map": "/Attendance_Management/static/css/main.14a31a6f.css.map",
-    "main.514d2bfe.js.map": "/Attendance_Management/static/js/main.514d2bfe.js.map",
+    "main.ea3ff125.css.map": "/Attendance_Management/static/css/main.ea3ff125.css.map",
+    "main.646d4953.js.map": "/Attendance_Management/static/js/main.646d4953.js.map",
     "787.70c7812c.chunk.js.map": "/Attendance_Management/static/js/787.70c7812c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14a31a6f.css",
-    "static/js/main.514d2bfe.js"
+    "static/css/main.ea3ff125.css",
+    "static/js/main.646d4953.js"
   ]
 }
