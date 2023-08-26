@@ -9,7 +9,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <BrowserRouter>
     <Routes>
-      <Route exact path="/" element={<Login />} />
+      <Route exact path="/login" element={<Login />} />
       <Route path="mark" element={<Mark />} />
     </Routes>
   </BrowserRouter>
