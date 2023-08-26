@@ -70,7 +70,7 @@
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-  
+
 .image img {
     max-width: 100%;
     height: auto;
@@ -78,22 +78,26 @@
     box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1);
     animation: floating 1.3s ease-in-out infinite alternate;
 }
-  
+
 @keyframes floating {
     0% {
-      transform: translateY(0);
+        transform: translateY(0);
     }
+
     100% {
-      transform: translateY(10px); 
+        transform: translateY(10px);
     }
 }
 
- .mark_attend {
+.mark_attend {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f5f5f5;
+    background-image: url('../assets/innerim.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .mark_form {
